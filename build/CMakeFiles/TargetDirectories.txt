@@ -1,0 +1,4 @@
+/home/computer_Study/SocketCommunication/build/CMakeFiles/rebuild_cache.dir
+/home/computer_Study/SocketCommunication/build/CMakeFiles/edit_cache.dir
+/home/computer_Study/SocketCommunication/build/CMakeFiles/Socker_Client.dir
+/home/computer_Study/SocketCommunication/build/CMakeFiles/Socket_Server.dir

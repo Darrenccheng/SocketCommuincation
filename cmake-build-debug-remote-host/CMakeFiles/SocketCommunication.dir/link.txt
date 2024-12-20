@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/SocketCommunication.dir/main.cpp.o CMakeFiles/SocketCommunication.dir/server_one_thread.cpp.o  -o SocketCommunication 

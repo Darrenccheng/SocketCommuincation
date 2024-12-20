@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/Socker_Client.dir/client_one_thread.cpp.o  -o ../bin/Socker_Client 

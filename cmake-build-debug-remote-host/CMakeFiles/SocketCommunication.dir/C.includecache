@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/computer_Study/SocketCommunication/server_one_thread.c
+iostream
+-
+stdlib.h
+-
+unistd.h
+-
+string.h
+-
+arpa/inet.h
+-
+
